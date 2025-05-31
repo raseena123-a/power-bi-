@@ -1,2 +1,7 @@
-# power-bi-
-This Power BI dashboard provides a clear and interactive overview of credit card transactions across departments. It highlights key metrics like total spend, transaction count, and average spend, with detailed breakdowns by category and year. Ideal for financial analysis, budgeting, and decision-making.
+# Credit Card Transaction (Interactive Dashboard creation using power BI)
+## Project Objective
+To design an interactive Power BI dashboard that analyzes credit card transaction data, providing actionable insights into spending patterns, departmental expenses, and transaction trends. The goal is to support informed financial decision-making, improve budget tracking, and enhance transparency in organizational expenditures.
+
+
+## Dataset used
+
