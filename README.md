@@ -18,3 +18,22 @@ Published dashboard to Power BI Service for sharing and interaction.
 
 ##Dashboard
 https://github.com/raseena123-a/power-bi-/blob/main/Screenshot%20(5).png
+
+##project insights
+High Overall Spend
+Total credit card spend is over $68 million, spread across 142,000+ transactions.
+Average Spend per Transaction
+The average transaction value is approximately $478.27, indicating frequent mid-size expenses.
+Top Spending Categories
+Telecom, Grocery Stores, and Industrial Supplies are among the highest spend categories by transaction description.
+Departmental Spending Trends
+Departments like 24 Hour Treatment and Academy of Dover show significantly high transaction volumes and values.
+Yearly Spend Growth
+A steady increase in total annual spending is observed, with 2021 seeing the highest growth so far.
+Vendor Analysis
+Frequent merchants include Amazon, Stamps.com, and Book Stores, reflecting routine operational or office expenses.
+Opportunities for Cost Optimization
+Repeated high spend in certain categories (e.g., Telecom, Office Supplies) suggests potential for vendor consolidation or contract renegotiation.
+
+##conclusion
+The Credit Card Transaction Dashboard provides a clear and data-driven overview of organizational spending behavior. With over $68 million spent across 142K transactions, the analysis highlights key spending patterns, top vendors, and high-expense departments. Yearly trends show a gradual increase in expenditures, and category-level insights reveal opportunities for cost control and strategic sourcing. This dashboard serves as an effective tool for finance teams to monitor, evaluate, and optimize credit card usage across the organization.
