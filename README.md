@@ -8,7 +8,7 @@ To design an interactive Power BI dashboard that analyzes credit card transactio
 
 dashboard interaction <a href= "https://github.com/raseena123-a/power-bi-/blob/main/Screenshot%20(5).png">view dashboard</a>
 
-# process
+# Process
 Imported transaction data (CSV/Excel) into Power BI.
 Cleaned and transformed data (dates, amounts, descriptions).
 Created measures: Total Spend, Total Transactions, Average Spend.
@@ -19,7 +19,7 @@ Published dashboard to Power BI Service for sharing and interaction.
 ## Dashboard
 https://github.com/raseena123-a/power-bi-/blob/main/Screenshot%20(5).png
 
-## roject insights
+## Project insights
 High Overall Spend
 Total credit card spend is over $68 million, spread across 142,000+ transactions.
 Average Spend per Transaction
