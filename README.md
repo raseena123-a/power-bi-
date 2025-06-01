@@ -5,3 +5,5 @@ To design an interactive Power BI dashboard that analyzes credit card transactio
 
 ## Dataset used
 -<a href="https://github.com/raseena123-a/power-bi-/blob/main/CreditCardTransaction.csv.zip">Dataset</a>
+
+dashboard interaction <a href= "https://github.com/raseena123-a/power-bi-/blob/main/Screenshot%20(5).png">view dashboard</a>
